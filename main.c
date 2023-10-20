@@ -41,7 +41,7 @@ int main() {
     }
 
     //Résultat
-    printf("Félicitation, vous avez deviner le chiffre %d\n",chiffreADeviner);
+    printf("Félicitation, vous avez devinez le chiffre %d\n",chiffreADeviner);
 
     return 0;
 }
